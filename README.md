@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
+[![Header](https://i.ibb.co.com/1GBqkWTt/banner.png "Header")](https://martinheinz.dev/)
 
 <h1 align="center">Hi 👋, I'm Md Rafsan Chowdhury</h1>
 <h3 align="center">Frontend Developer | React Enthusiast  </br>
