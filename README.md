@@ -10,11 +10,20 @@ Currently focusing on React, JavaScript, and full-stack fundamentals. Always cur
   <img src="https://komarev.com/ghpvc/?username=chyrafsan35&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
+<!-- ===================== Open to Work / Remote ===================== -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-22c55e?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to%20Remote-0ea5e9?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+</p>
+
 <ul>
   <li>🔭 I’m currently working on <a href="https://wish-box17.vercel.app/">WishBox App</a></li>
   <li>🌱 I’m exploring <b>Next.js</b></li>
   <li>💬 Ask me about <b>React</b></li>
   <li>📫 Reach me at <b>mrcplabon@gmail.com</b></li>
+<li>🌐 I'm familiar with backend & databases</li>   
+<li>🧠 Continuous learner & problem solver </li> 
+<li>🎯 Goal: Build scalable real-world applications</li>   
 </ul>
 
 <h3>Languages and Tools:</h3>
@@ -65,6 +74,16 @@ Currently focusing on React, JavaScript, and full-stack fundamentals. Always cur
   </tr>
 
 </table>
+
+---
+
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: []()  
+- 📘 Facebook: [https://www.facebook.com/mdrafsanchy]()  
+- 📱 Whatsapp: [88]()  
+- 📧 Email: [mrcplabon@gmail.com](mailto:mrcplabon@gmail.com)
 
 ---
 
