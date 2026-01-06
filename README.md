@@ -31,6 +31,43 @@ Currently focusing on React, JavaScript, and full-stack fundamentals. Always cur
 
 <h2 align="center">🔥 GitHub Streak</h2>
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=chyrafsan35&theme=dark" alt="GitHub Streak" /></a>
+  <!-- Streak Stats -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=chyrafsan35&theme=neon&hide_border=false" alt="GitHub Streak Stats" />
 </p>
+
+<!-- ===================== GITHUB SUMMARY CARDS ===================== -->
+## 📊 GitHub Dashboard
+
+<table align="center">
+  <!-- Stats Cards -->
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chyrafsan35&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Stats 1" />
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chyrafsan35&theme=dark&utcOffset=6" alt="Commits 1" />
+    </td>
+  </tr>
+
+  <!-- Top Language by Repo Cards -->
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chyrafsan35&theme=dark" alt="Top Language by Repo 1" />
+    </td>
+    <!-- Top Language by Commit Cards -->
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chyrafsan35&theme=dark" alt="Top Language by Commit 1" />
+    </td>
+
+  </tr>
+
+</table>
+
+---
+
+<!-- <p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=chyrafsan35&theme=dark" alt="GitHub Streak" /></a>
+</p> -->
