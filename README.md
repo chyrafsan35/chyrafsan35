@@ -81,8 +81,8 @@ Currently focusing on React, JavaScript, and full-stack fundamentals. Always cur
 ## 📫 Connect With Me
 
 - 🌐 Portfolio: [https://my-portfolio-wheat-sigma-20.vercel.app](https://my-portfolio-wheat-sigma-20.vercel.app)  
-- 📘 Facebook: [https://www.facebook.com/mdrafsanchy]()  
-- 📱 Whatsapp: [88]()  
+- 📘 LinkedIn: [https://www.linkedin.com/in/chowdhury35/](https://www.linkedin.com/in/chowdhury35/)  
+- 📱 Whatsapp: [88](01815376317)  
 - 📧 Email: [mrcplabon@gmail.com](mailto:mrcplabon@gmail.com)
 
 ---
